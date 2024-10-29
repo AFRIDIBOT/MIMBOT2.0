@@ -7,11 +7,11 @@ module.exports = {
 		role: 2,
 		shortDescription: {
 			vi: "",
-			en: "kick 🦶 bot from gc by owner bot"
+			en: "kick 🙏 bot from gc by owner bot"
 		},
 		longDescription: {
 			vi: "",
-			en: "remove bot from group "
+			en: "Mim Jannat left the group."
 		},
 		category: "owner",
 		guide: {
